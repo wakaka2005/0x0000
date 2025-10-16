@@ -1,0 +1,9 @@
+*.vs
+*.vscode
+*.suo
+*.user
+*.userprefs
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
