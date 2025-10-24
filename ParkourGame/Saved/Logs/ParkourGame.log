@@ -3550,3 +3550,1314 @@ FPackageName: Skipped package /Game/_GENERATED/fsd13/纯黑 has a valid, mounted
 [2025.10.24-06.25.45:079][126]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 67622.750000
 [2025.10.24-06.25.46:080][129]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.24-06.25.46:080][129]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 67623.421875, Update Interval: 342.368225
+[2025.10.24-06.32.21:282][534]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D52C2444430DE4480213468483CF77FC, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: request failed, libcurl error: 35 (SSL connect error)
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 0 (Found bundle for host: 0x1ebdc080990 [serially])
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 4 (state.rewindbeforesend = TRUE)
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 5 (Closing connection)
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 7 (Recv failure: Connection was aborted)
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D52C2444430DE4480213468483CF77FC')
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 9 (  Trying 127.0.0.1:8890...)
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 10 (Connected to 127.0.0.1 (127.0.0.1) port 8890)
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 11 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-06.32.21:915][572]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 12 (allocate connect buffer)
+[2025.10.24-06.32.21:915][573]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 13 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.10.24-06.32.21:915][573]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 14 (CONNECT phase completed)
+[2025.10.24-06.32.21:915][573]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 15 (CONNECT tunnel established, response 200)
+[2025.10.24-06.32.21:915][573]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2025.10.24-06.32.21:915][573]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 17 (SSL reusing session ID)
+[2025.10.24-06.32.21:915][573]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 18 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.24-06.32.21:915][573]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 19 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.10.24-06.32.21:916][573]LogEOSSDK: Warning: LogHttp: 000001EDE0B54800: libcurl info message cache 20 (Closing connection)
+[2025.10.24-06.32.21:916][573]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D52C2444430DE4480213468483CF77FC
+[2025.10.24-06.32.21:916][573]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.10.24-06.32.23:790][653]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:56305'.
+[2025.10.24-06.32.23:800][653]Could not fetch the local adapter addresses
+[2025.10.24-06.32.23:801][653]LogUdpMessaging: Display: Added local interface '0.0.0.0' to multicast group '230.0.0.1:6666'
+[2025.10.24-06.32.23:811][653]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.10.24-06.32.25:996][767]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 68020.914062
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: request failed, libcurl error: 35 (SSL connect error)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 0 (Hostname 127.0.0.1 was found in DNS cache)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 1 (  Trying 127.0.0.1:8890...)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 8890)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 4 (allocate connect buffer)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 5 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 6 (CONNECT phase completed)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 9 (SSL reusing session ID)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 11 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.10.24-06.32.28:644][907]LogEOSSDK: Warning: LogHttp: 000001EB7A537E00: libcurl info message cache 12 (Closing connection)
+[2025.10.24-06.32.28:644][908]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.10.24-06.32.28:644][908]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2025.10.24-06.32.28:978][908]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 42.838833 seconds
+[2025.10.24-06.33.11:486][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 68065.539062
+[2025.10.24-06.33.11:784][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-06.33.11:785][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 68065.804688, Update Interval: 332.092041
+[2025.10.24-06.35.38:646][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.10.24-06.39.37:856][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 68440.976562
+[2025.10.24-06.39.38:865][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-06.39.38:865][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 68441.640625, Update Interval: 327.358612
+[2025.10.24-06.44.41:916][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.10.24-06.44.41:926][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/Maps/Level_4" FILE="../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/Maps/Level_4_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.10.24-06.44.41:972][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_01/Maps/Level_4_Auto0
+[2025.10.24-06.44.41:972][739]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/Level_4_Auto02B028A584A07903059DB248F06144579.tmp' to '../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/Maps/Level_4_Auto0.umap'
+[2025.10.24-06.44.41:978][739]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_01/Maps/Level_4' took 0.168
+[2025.10.24-06.44.41:978][739]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.168
+[2025.10.24-06.44.41:979][739]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_01/BP/Player/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.24-06.44.42:160][739]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_01/BP/Player/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.24-06.44.42:160][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Player/BP_ThirdPersonCharacter]
+[2025.10.24-06.44.42:215][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_01/BP/Player/BP_ThirdPersonCharacter_Auto0
+[2025.10.24-06.44.42:215][739]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/BP_ThirdPersonCharacter_Auto00DF7CE284CD54CCC03D78489BEDF5C43.tmp' to '../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/BP/Player/BP_ThirdPersonCharacter_Auto0.uasset'
+[2025.10.24-06.44.42:217][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_01/BP/Traps/bp_rope] ([2] browsable assets)...
+[2025.10.24-06.44.42:217][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Traps/bp_rope]
+[2025.10.24-06.44.42:217][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Traps/bp_rope" FILE="../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/BP/Traps/bp_rope_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.10.24-06.44.42:223][739]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_01/BP/Traps/bp_rope_Auto0
+[2025.10.24-06.44.42:223][739]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/bp_rope_Auto0CF294F1D4A5AF6192559CE8C6E399921.tmp' to '../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/BP/Traps/bp_rope_Auto0.uasset'
+[2025.10.24-06.44.42:223][739]LogFileHelpers: Auto-saving content packages took 0.244
+[2025.10.24-06.46.05:972][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 68820.484375
+[2025.10.24-06.46.06:975][507]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-06.46.06:975][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 68821.156250, Update Interval: 355.649292
+[2025.10.24-06.52.42:836][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 69208.164062
+[2025.10.24-06.52.43:138][741]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-06.52.43:138][741]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 69208.429688, Update Interval: 345.785095
+[2025.10.24-06.59.19:094][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 69596.070312
+[2025.10.24-06.59.19:378][458]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-06.59.19:378][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 69596.320312, Update Interval: 313.451324
+[2025.10.24-07.05.08:106][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.10.24-07.05.08:110][547]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_01/Maps/Level_4' took 0.039
+[2025.10.24-07.05.08:110][547]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_01/BP/Traps/bp_rope] ([2] browsable assets)...
+[2025.10.24-07.05.08:110][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Traps/bp_rope]
+[2025.10.24-07.05.08:110][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Traps/bp_rope" FILE="../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/BP/Traps/bp_rope_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.10.24-07.05.08:119][547]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_01/BP/Traps/bp_rope_Auto1
+[2025.10.24-07.05.08:120][547]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/bp_rope_Auto15E24A3AC4302CEEDBE8A4BAE1AFADA5C.tmp' to '../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/BP/Traps/bp_rope_Auto1.uasset'
+[2025.10.24-07.05.08:120][547]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.10.24-07.05.28:006][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 69960.562500
+[2025.10.24-07.05.29:006][610]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-07.05.29:006][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 69961.234375, Update Interval: 321.678528
+[2025.10.24-07.11.49:270][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 70336.093750
+[2025.10.24-07.11.49:570][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-07.11.49:571][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 70336.359375, Update Interval: 309.327667
+[2025.10.24-07.13.09:435][602]LogDerivedDataCache: C:/Users/李冰欣/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.24-07.17.43:655][936]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 70678.882812
+[2025.10.24-07.17.44:657][940]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-07.17.44:657][940]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 70679.554688, Update Interval: 325.428619
+[2025.10.24-07.19.32:615][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.24-07.19.32:620][420]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_01/Maps/Level_4' took 0.048
+[2025.10.24-07.19.32:620][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_01/BP/Traps/bp_rope] ([2] browsable assets)...
+[2025.10.24-07.19.32:620][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Traps/bp_rope]
+[2025.10.24-07.19.32:620][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Traps/bp_rope" FILE="../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/BP/Traps/bp_rope_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.10.24-07.19.32:632][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_01/BP/Traps/bp_rope_Auto2
+[2025.10.24-07.19.32:632][420]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/bp_rope_Auto217EB644F4933345751C7C8834D347A94.tmp' to '../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/BP/Traps/bp_rope_Auto2.uasset'
+[2025.10.24-07.19.32:632][420]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.10.24-07.23.55:195][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 71040.765625
+[2025.10.24-07.23.56:197][717]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-07.23.56:197][717]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 71041.429688, Update Interval: 340.013428
+[2025.10.24-07.27.35:223][122]LogBlueprint: Error: [AssetLog]D:\0x0000\ParkourGame\Content\_01\BP\Traps\bp_rope.uasset：[编译器]此蓝图（自身）并非是一个 PlayerState，因此 ' Target ’ 必须拥有一个连接。
+[2025.10.24-07.27.35:231][122]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.24-07.27.35:311][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.24-07.28.52:052][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.10.24-07.28.53:296][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-07.28.53:345][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_01/BP/Traps/bp_rope] ([2] browsable assets)...
+[2025.10.24-07.28.53:345][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Traps/bp_rope]
+[2025.10.24-07.28.53:345][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Traps/bp_rope" FILE="../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_rope.uasset" SILENT=true
+[2025.10.24-07.28.53:363][399]LogSavePackage: Moving output files for package: /Game/_01/BP/Traps/bp_rope
+[2025.10.24-07.28.53:363][399]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/bp_ropeE264B0AC4CB273A225B049A3F71EB8C3.tmp' to '../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_rope.uasset'
+[2025.10.24-07.28.53:377][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.661 ms (total: 3.17 sec)
+[2025.10.24-07.28.53:429][399]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-07.28.53:430][399]LogContentValidation: Enabled validators:
+[2025.10.24-07.28.53:430][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-07.28.53:430][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-07.28.53:430][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-07.28.53:430][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-07.28.53:430][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-07.28.53:430][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-07.28.53:430][399]AssetCheck: /Game/_01/BP/Traps/bp_rope 正在验证资产
+[2025.10.24-07.29.01:627][866]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.10.24-07.29.14:592][601]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-07.29.14:592][601]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-07.29.14:594][601]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_0
+[2025.10.24-07.29.14:595][601]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_0
+[2025.10.24-07.29.16:435][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.24-07.29.16:472][696]LogEditorActor: Deleted 0 Actors (0.081 secs)
+[2025.10.24-07.29.16:481][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-07.29.16:481][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-07.29.16:484][696]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_2
+[2025.10.24-07.29.16:485][696]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_2
+[2025.10.24-07.30.11:143][915]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 71402.406250
+[2025.10.24-07.30.11:460][934]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-07.30.11:460][934]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 71402.687500, Update Interval: 356.993317
+[2025.10.24-07.32.18:247][471]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-07.32.18:258][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-07.32.18:259][471]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-07.32.18:273][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013931s)
+[2025.10.24-07.32.18:273][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.013982s)
+[2025.10.24-07.32.18:308][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.24-07.32.18:319][471]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-07.32.18:321][471]LogPlayLevel: PIE: World Init took: (0.002238s)
+[2025.10.24-07.32.18:322][471]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.10.24-07.32.18:322][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-07.32.18:322][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-07.32.18:322][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-07.32.18:322][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-07.32.18:322][471]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-07.32.18:322][471]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-07.32.18:323][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-07.32.18:323][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-07.32.18:323][471]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-07.32.18:323][471]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-07.32.18:323][471]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-07.32.18:325][471]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-07.32.18:421][471]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-07.32.18:421][471]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-07.32.18:421][471]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-07.32.18:421][471]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-07.32.18:422][471]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.10.24-07.32.18:422][471]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.10.24-07.32.18:425][471]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.10.24-07.32.18:425][471]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.10.24-07.32.18:425][471]LogInit: FAudioDevice initialized with ID 18.
+[2025.10.24-07.32.18:425][471]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level_4'.
+[2025.10.24-07.32.18:425][471]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.10.24-07.32.18:433][471]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-07.32.18:438][471]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-15.32.18
+[2025.10.24-07.32.18:438][471]LogWorld: Bringing up level for play took: 0.004672
+[2025.10.24-07.32.18:441][471]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.10.24-07.32.18:446][471]PIE: 登陆的服务器
+[2025.10.24-07.32.18:449][471]PIE: PIE总开始时间：0.191秒。
+[2025.10.24-07.32.18:511][472]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-07.32.36:203][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-07.32.36:203][528]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-07.32.36:203][528]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-07.32.36:207][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-07.32.36:217][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-07.32.36:224][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-07.32.36:267][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-07.32.36:267][528]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.10.24-07.32.36:267][528]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.10.24-07.32.36:270][528]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.10.24-07.32.36:276][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-07.32.36:281][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.24-07.32.36:340][529]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.10.24-07.34.01:245][482]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-07.34.01:255][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-07.34.01:255][482]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-07.34.01:271][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016088s)
+[2025.10.24-07.34.01:271][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.016131s)
+[2025.10.24-07.34.01:320][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.10.24-07.34.01:325][482]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-07.34.01:327][482]LogPlayLevel: PIE: World Init took: (0.001805s)
+[2025.10.24-07.34.01:328][482]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.10.24-07.34.01:328][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-07.34.01:328][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-07.34.01:328][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-07.34.01:328][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-07.34.01:328][482]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-07.34.01:328][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-07.34.01:328][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-07.34.01:328][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-07.34.01:328][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-07.34.01:328][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-07.34.01:328][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-07.34.01:331][482]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-07.34.01:423][482]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-07.34.01:425][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-07.34.01:425][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-07.34.01:425][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-07.34.01:425][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.10.24-07.34.01:425][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.10.24-07.34.01:428][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.10.24-07.34.01:428][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.10.24-07.34.01:428][482]LogInit: FAudioDevice initialized with ID 19.
+[2025.10.24-07.34.01:428][482]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level_4'.
+[2025.10.24-07.34.01:428][482]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.10.24-07.34.01:433][482]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-07.34.01:438][482]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-15.34.01
+[2025.10.24-07.34.01:439][482]LogWorld: Bringing up level for play took: 0.005784
+[2025.10.24-07.34.01:442][482]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.10.24-07.34.01:449][482]PIE: 登陆的服务器
+[2025.10.24-07.34.01:452][482]PIE: PIE总开始时间：0.197秒。
+[2025.10.24-07.34.01:510][483]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-07.34.08:700][912]LogBlueprintUserMessages: [StaticMeshActor_3] Hello
+[2025.10.24-07.34.10:643][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-07.34.10:643][ 27]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-07.34.10:643][ 27]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-07.34.10:646][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-07.34.10:651][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-07.34.10:659][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-07.34.10:693][ 27]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-07.34.10:693][ 27]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.10.24-07.34.10:693][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.10.24-07.34.10:696][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.10.24-07.34.10:703][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-07.34.10:707][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.24-07.34.10:766][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.10.24-07.34.13:428][183]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-07.34.13:439][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-07.34.13:440][183]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-07.34.13:453][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012984s)
+[2025.10.24-07.34.13:453][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.013024s)
+[2025.10.24-07.34.13:493][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.24-07.34.13:497][183]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-07.34.13:499][183]LogPlayLevel: PIE: World Init took: (0.001966s)
+[2025.10.24-07.34.13:499][183]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.10.24-07.34.13:500][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-07.34.13:500][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-07.34.13:500][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-07.34.13:500][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-07.34.13:500][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-07.34.13:500][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-07.34.13:500][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-07.34.13:500][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-07.34.13:500][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-07.34.13:500][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-07.34.13:500][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-07.34.13:502][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-07.34.13:597][183]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-07.34.13:598][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-07.34.13:598][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-07.34.13:598][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-07.34.13:598][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.10.24-07.34.13:598][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.10.24-07.34.13:602][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.10.24-07.34.13:603][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.10.24-07.34.13:603][183]LogInit: FAudioDevice initialized with ID 20.
+[2025.10.24-07.34.13:603][183]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level_4'.
+[2025.10.24-07.34.13:603][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.10.24-07.34.13:609][183]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-07.34.13:616][183]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-15.34.13
+[2025.10.24-07.34.13:616][183]LogWorld: Bringing up level for play took: 0.007365
+[2025.10.24-07.34.13:620][183]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.10.24-07.34.13:627][183]PIE: 登陆的服务器
+[2025.10.24-07.34.13:630][183]PIE: PIE总开始时间：0.19秒。
+[2025.10.24-07.34.13:683][184]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-07.34.36:563][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-07.34.36:563][551]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-07.34.36:564][551]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-07.34.36:567][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-07.34.36:572][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-07.34.36:582][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-07.34.36:612][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-07.34.36:612][551]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.10.24-07.34.36:612][551]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.10.24-07.34.36:615][551]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.10.24-07.34.36:628][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.10.24-07.34.36:691][552]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.10.24-07.35.28:140][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.24-07.35.28:145][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/Maps/Level_4" FILE="../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/Maps/Level_4_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.10.24-07.35.28:193][179]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_01/Maps/Level_4_Auto3
+[2025.10.24-07.35.28:194][179]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/Level_4_Auto3ED7C60EB4B4453987BB8BFAA4793B363.tmp' to '../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/Maps/Level_4_Auto3.umap'
+[2025.10.24-07.35.28:196][179]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_01/Maps/Level_4' took 0.082
+[2025.10.24-07.35.28:196][179]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2025.10.24-07.36.57:727][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 71791.640625
+[2025.10.24-07.36.58:727][452]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-07.36.58:727][452]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 71792.304688, Update Interval: 322.517151
+[2025.10.24-07.42.55:411][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72148.976562
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: request failed, libcurl error: 55 (Failed sending data to the peer)
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 0 (Found bundle for host: 0x1ebdc080420 [serially])
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 2 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 3 (Closing connection)
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 5 (Recv failure: Connection was aborted)
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 6 (Issue another request to this URL: 'https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30')
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 7 (  Trying 127.0.0.1:8890...)
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 8 (Connected to 127.0.0.1 (127.0.0.1) port 8890)
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 9 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 10 (allocate connect buffer)
+[2025.10.24-07.42.58:744][584]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 11 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.10.24-07.42.58:744][585]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 12 (Send failure: Connection was reset)
+[2025.10.24-07.42.58:744][585]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 13 (Failed sending CONNECT to proxy)
+[2025.10.24-07.42.58:744][585]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 14 (Closing connection)
+[2025.10.24-07.42.58:744][585]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.10.24-07.42.58:744][585]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2025.10.24-07.42.58:758][585]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 33.674122 seconds
+[2025.10.24-07.43.32:647][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72186.375000
+[2025.10.24-07.43.35:646][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-07.43.35:646][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72189.062500, Update Interval: 332.002319
+[2025.10.24-07.49.58:733][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72574.273438
+[2025.10.24-07.49.59:734][944]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-07.49.59:734][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72574.945312, Update Interval: 331.346771
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: request failed, libcurl error: 35 (SSL connect error)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 0 (Found bundle for host: 0x1ebdc080a20 [serially])
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 6 (Closing connection)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 9 (  Trying 127.0.0.1:8890...)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 10 (Connected to 127.0.0.1 (127.0.0.1) port 8890)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 11 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 12 (allocate connect buffer)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 13 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 14 (CONNECT phase completed)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 15 (CONNECT tunnel established, response 200)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 17 (SSL reusing session ID)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 18 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 19 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.10.24-07.51.46:091][264]LogEOSSDK: Warning: LogHttp: 000001ED3EF19600: libcurl info message cache 20 (Closing connection)
+[2025.10.24-07.51.46:424][264]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE004E014-4131-7AA5-353A-6B907D5AA83B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f9dc41884127c250c3986297f8ab2256%7Ca41fff4601fa4822bb737dcb9088a53e%7C47df67cb-b287-4d6f-a49f-d89ef0685227&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: request failed, libcurl error: 35 (SSL connect error)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 0 (Re-using existing connection with proxy 127.0.0.1)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 1 (upload completely sent off: 443 bytes)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 2 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 4 (shutting down connection #15)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 5 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 6 (necessary data rewind was not possible)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 7 (rewind of client reader 'cr-in' failed: 65)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE004E014-4131-7AA5-353A-6B907D5AA83B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f9dc41884127c250c3986297f8ab2256%7Ca41fff4601fa4822bb737dcb9088a53e%7C47df67cb-b287-4d6f-a49f-d89ef0685227&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 9 (necessary data rewind was not possible)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 11 (  Trying 127.0.0.1:8890...)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 12 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 13 (allocate connect buffer)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 14 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 15 (CONNECT phase completed)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 16 (CONNECT tunnel established, response 200)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 17 (SSL reusing session)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 18 (ALPN: curl offers http/1.1)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 19 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 20 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 21 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900: libcurl info message cache 22 (closing connection #16)
+[2025.10.24-07.51.51:759][281]LogHttp: Warning: 000001ED6AC36900 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE004E014-4131-7AA5-353A-6B907D5AA83B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f9dc41884127c250c3986297f8ab2256%7Ca41fff4601fa4822bb737dcb9088a53e%7C47df67cb-b287-4d6f-a49f-d89ef0685227&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 10.25s
+[2025.10.24-07.53.11:104][519]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.24-07.53.11:104][519]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: request failed, libcurl error: 0 (No error)
+[2025.10.24-07.53.11:104][519]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 0 (Found bundle for host: 0x1ebdc0801e0 [serially])
+[2025.10.24-07.53.11:104][519]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.10.24-07.53.11:104][519]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.10.24-07.53.11:104][519]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 3 (Closing connection)
+[2025.10.24-07.53.11:104][519]LogEOSSDK: Warning: LogHttp: 000001ED3EF1F000: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.24-07.53.11:104][519]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.24-07.56.22:488][271]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72961.257812
+[2025.10.24-07.56.23:487][274]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-07.56.23:487][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72961.921875, Update Interval: 322.493347
+[2025.10.24-07.58.51:001][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.10.24-07.58.53:160][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-07.58.53:213][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_01/BP/Traps/bp_rope] ([2] browsable assets)...
+[2025.10.24-07.58.53:213][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Traps/bp_rope]
+[2025.10.24-07.58.53:213][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Traps/bp_rope" FILE="../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_rope.uasset" SILENT=true
+[2025.10.24-07.58.53:229][ 69]LogSavePackage: Moving output files for package: /Game/_01/BP/Traps/bp_rope
+[2025.10.24-07.58.53:229][ 69]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/bp_rope3549E63043C2FCA1D1804D82125920C8.tmp' to '../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_rope.uasset'
+[2025.10.24-07.58.53:244][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.181 ms (total: 3.25 sec)
+[2025.10.24-07.58.53:309][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-07.58.53:309][ 69]LogContentValidation: Enabled validators:
+[2025.10.24-07.58.53:309][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-07.58.53:309][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-07.58.53:309][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-07.58.53:309][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-07.58.53:309][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-07.58.53:309][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-07.58.53:309][ 69]AssetCheck: /Game/_01/BP/Traps/bp_rope 正在验证资产
+[2025.10.24-07.58.57:737][327]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-07.58.57:748][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-07.58.57:748][327]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-07.58.57:762][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013882s)
+[2025.10.24-07.58.57:762][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.013937s)
+[2025.10.24-07.58.57:797][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.24-07.58.57:803][327]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-07.58.57:805][327]LogPlayLevel: PIE: World Init took: (0.001977s)
+[2025.10.24-07.58.57:806][327]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.10.24-07.58.57:806][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-07.58.57:806][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-07.58.57:806][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-07.58.57:806][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-07.58.57:806][327]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-07.58.57:806][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-07.58.57:806][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-07.58.57:806][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-07.58.57:806][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-07.58.57:806][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-07.58.57:806][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-07.58.57:809][327]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-07.58.57:903][327]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-07.58.57:903][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-07.58.57:903][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-07.58.57:903][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-07.58.57:904][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.10.24-07.58.57:904][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.10.24-07.58.57:907][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.10.24-07.58.57:907][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.10.24-07.58.57:907][327]LogInit: FAudioDevice initialized with ID 21.
+[2025.10.24-07.58.57:907][327]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level_4'.
+[2025.10.24-07.58.57:907][327]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.10.24-07.58.57:913][327]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-07.58.57:918][327]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-15.58.57
+[2025.10.24-07.58.57:918][327]LogWorld: Bringing up level for play took: 0.004653
+[2025.10.24-07.58.57:920][327]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.10.24-07.58.57:925][327]PIE: 登陆的服务器
+[2025.10.24-07.58.57:928][327]PIE: PIE总开始时间：0.181秒。
+[2025.10.24-07.58.57:990][328]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-07.59.06:881][851]LogBlueprintUserMessages: [StaticMeshActor_6] Hello
+[2025.10.24-07.59.09:984][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-07.59.09:984][ 35]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-07.59.09:984][ 35]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-07.59.09:988][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-07.59.09:995][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-07.59.10:003][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-07.59.10:038][ 35]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-07.59.10:038][ 35]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.10.24-07.59.10:038][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.10.24-07.59.10:040][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.10.24-07.59.10:047][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-07.59.10:051][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.24-07.59.10:108][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.10.24-07.59.11:349][104]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-07.59.11:362][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-07.59.11:362][104]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-07.59.11:376][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014448s)
+[2025.10.24-07.59.11:376][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.014490s)
+[2025.10.24-07.59.11:421][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.24-07.59.11:425][104]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-07.59.11:426][104]LogPlayLevel: PIE: World Init took: (0.001779s)
+[2025.10.24-07.59.11:427][104]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.10.24-07.59.11:427][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-07.59.11:427][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-07.59.11:427][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-07.59.11:427][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-07.59.11:427][104]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-07.59.11:427][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-07.59.11:427][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-07.59.11:427][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-07.59.11:427][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-07.59.11:427][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-07.59.11:428][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-07.59.11:430][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-07.59.11:518][104]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-07.59.11:518][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-07.59.11:518][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-07.59.11:518][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-07.59.11:518][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.10.24-07.59.11:518][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.10.24-07.59.11:520][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.10.24-07.59.11:520][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.10.24-07.59.11:520][104]LogInit: FAudioDevice initialized with ID 22.
+[2025.10.24-07.59.11:520][104]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level_4'.
+[2025.10.24-07.59.11:520][104]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.10.24-07.59.11:526][104]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-07.59.11:531][104]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-15.59.11
+[2025.10.24-07.59.11:531][104]LogWorld: Bringing up level for play took: 0.004792
+[2025.10.24-07.59.11:533][104]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.10.24-07.59.11:539][104]PIE: 登陆的服务器
+[2025.10.24-07.59.11:542][104]PIE: PIE总开始时间：0.18秒。
+[2025.10.24-07.59.11:601][105]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-08.00.06:813][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.00.06:813][413]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.00.06:813][413]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.00.06:817][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.00.06:824][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.00.06:833][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.00.06:863][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.00.06:864][413]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.10.24-08.00.06:864][413]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.10.24-08.00.06:867][413]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.10.24-08.00.06:878][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.24-08.00.06:941][414]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.10.24-08.00.08:954][530]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-08.00.08:965][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.00.08:991][530]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.00.09:015][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023226s)
+[2025.10.24-08.00.09:015][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.023327s)
+[2025.10.24-08.00.09:056][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.24-08.00.09:059][530]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-08.00.09:062][530]LogPlayLevel: PIE: World Init took: (0.002004s)
+[2025.10.24-08.00.09:063][530]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.10.24-08.00.09:063][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.00.09:063][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.00.09:063][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.00.09:063][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.00.09:063][530]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.00.09:063][530]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.00.09:063][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.00.09:063][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.00.09:063][530]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.00.09:063][530]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.00.09:063][530]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.00.09:065][530]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.00.09:158][530]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-08.00.09:158][530]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.00.09:158][530]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.00.09:158][530]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.00.09:158][530]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.10.24-08.00.09:158][530]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.10.24-08.00.09:161][530]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.10.24-08.00.09:161][530]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.10.24-08.00.09:161][530]LogInit: FAudioDevice initialized with ID 23.
+[2025.10.24-08.00.09:161][530]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level_4'.
+[2025.10.24-08.00.09:161][530]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.10.24-08.00.09:167][530]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-08.00.09:172][530]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-16.00.09
+[2025.10.24-08.00.09:172][530]LogWorld: Bringing up level for play took: 0.004999
+[2025.10.24-08.00.09:174][530]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.10.24-08.00.09:180][530]PIE: 登陆的服务器
+[2025.10.24-08.00.09:184][530]PIE: PIE总开始时间：0.219秒。
+[2025.10.24-08.00.09:241][531]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-08.00.27:514][623]LogBlueprintUserMessages: [StaticMeshActor_48] Hello
+[2025.10.24-08.00.29:823][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.00.29:824][759]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.00.29:824][759]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.00.29:827][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.00.29:835][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.00.29:845][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.00.29:896][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.00.29:896][759]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.10.24-08.00.29:897][759]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.10.24-08.00.29:899][759]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.10.24-08.00.29:913][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.10.24-08.00.29:972][760]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.10.24-08.00.32:124][884]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-08.00.32:134][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.00.32:162][884]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.00.32:182][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020530s)
+[2025.10.24-08.00.32:182][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.020603s)
+[2025.10.24-08.00.32:224][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.24-08.00.32:227][884]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-08.00.32:229][884]LogPlayLevel: PIE: World Init took: (0.001862s)
+[2025.10.24-08.00.32:229][884]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.10.24-08.00.32:229][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.00.32:231][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.00.32:231][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.00.32:231][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.00.32:231][884]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.00.32:231][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.00.32:231][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.00.32:231][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.00.32:231][884]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.00.32:231][884]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.00.32:231][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.00.32:233][884]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.00.32:342][884]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-08.00.32:343][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.00.32:343][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.00.32:343][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.00.32:343][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.10.24-08.00.32:343][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.10.24-08.00.32:348][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.10.24-08.00.32:348][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.10.24-08.00.32:348][884]LogInit: FAudioDevice initialized with ID 24.
+[2025.10.24-08.00.32:348][884]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level_4'.
+[2025.10.24-08.00.32:348][884]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.24-08.00.32:353][884]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-08.00.32:359][884]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-16.00.32
+[2025.10.24-08.00.32:360][884]LogWorld: Bringing up level for play took: 0.006170
+[2025.10.24-08.00.32:363][884]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.10.24-08.00.32:368][884]PIE: 登陆的服务器
+[2025.10.24-08.00.32:371][884]PIE: PIE总开始时间：0.237秒。
+[2025.10.24-08.00.32:417][885]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-08.00.55:113][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.00.55:113][239]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.00.55:114][239]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.00.55:117][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.00.55:123][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.00.55:129][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.00.55:158][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.00.55:159][239]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.24-08.00.55:159][239]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.10.24-08.00.55:162][239]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.10.24-08.00.55:170][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.24-08.00.55:230][240]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.10.24-08.00.57:081][347]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-08.00.57:091][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.00.57:091][347]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.00.57:104][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013659s)
+[2025.10.24-08.00.57:104][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.013702s)
+[2025.10.24-08.00.57:142][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.24-08.00.57:146][347]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-08.00.57:147][347]LogPlayLevel: PIE: World Init took: (0.001795s)
+[2025.10.24-08.00.57:148][347]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.10.24-08.00.57:148][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.00.57:148][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.00.57:148][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.00.57:148][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.00.57:148][347]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.00.57:148][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.00.57:148][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.00.57:148][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.00.57:148][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.00.57:148][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.00.57:148][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.00.57:151][347]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.00.57:276][347]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-08.00.57:276][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.00.57:276][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.00.57:276][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.00.57:277][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.10.24-08.00.57:277][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.10.24-08.00.57:282][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.10.24-08.00.57:282][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.10.24-08.00.57:282][347]LogInit: FAudioDevice initialized with ID 25.
+[2025.10.24-08.00.57:282][347]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level_4'.
+[2025.10.24-08.00.57:282][347]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.10.24-08.00.57:288][347]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-08.00.57:295][347]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-16.00.57
+[2025.10.24-08.00.57:295][347]LogWorld: Bringing up level for play took: 0.006952
+[2025.10.24-08.00.57:298][347]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.10.24-08.00.57:306][347]PIE: 登陆的服务器
+[2025.10.24-08.00.57:309][347]PIE: PIE总开始时间：0.219秒。
+[2025.10.24-08.00.57:369][348]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-08.01.16:073][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.01.16:074][464]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.01.16:074][464]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.01.16:077][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.01.16:083][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.01.16:091][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.01.16:124][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.01.16:125][464]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.10.24-08.01.16:125][464]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2025.10.24-08.01.16:127][464]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2025.10.24-08.01.16:140][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.24-08.01.16:199][465]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.10.24-08.01.59:625][999]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-08.01.59:636][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.01.59:636][999]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.01.59:650][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013818s)
+[2025.10.24-08.01.59:650][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.013861s)
+[2025.10.24-08.01.59:693][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.10.24-08.01.59:698][999]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-08.01.59:700][999]LogPlayLevel: PIE: World Init took: (0.001851s)
+[2025.10.24-08.01.59:702][999]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.10.24-08.01.59:702][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.01.59:702][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.01.59:702][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.01.59:702][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.01.59:702][999]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.01.59:702][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.01.59:702][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.01.59:702][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.01.59:702][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.01.59:702][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.01.59:702][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.01.59:704][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.01.59:786][999]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-08.01.59:786][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.01.59:786][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.01.59:786][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.01.59:787][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.10.24-08.01.59:787][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.10.24-08.01.59:790][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.10.24-08.01.59:790][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.10.24-08.01.59:790][999]LogInit: FAudioDevice initialized with ID 26.
+[2025.10.24-08.01.59:790][999]LogAudio: Display: Audio Device (ID: 26) registered with world 'Level_4'.
+[2025.10.24-08.01.59:790][999]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.10.24-08.01.59:795][999]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-08.01.59:799][999]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-16.01.59
+[2025.10.24-08.01.59:800][999]LogWorld: Bringing up level for play took: 0.004715
+[2025.10.24-08.01.59:802][999]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.10.24-08.01.59:807][999]PIE: 登陆的服务器
+[2025.10.24-08.01.59:810][999]PIE: PIE总开始时间：0.174秒。
+[2025.10.24-08.01.59:880][  0]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-08.02.09:433][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.02.09:433][568]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.02.09:434][568]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.02.09:436][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.02.09:442][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.02.09:451][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.02.09:484][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.02.09:484][568]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.10.24-08.02.09:485][568]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2025.10.24-08.02.09:487][568]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2025.10.24-08.02.09:494][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.10.24-08.02.09:562][569]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.10.24-08.02.31:130][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 73312.390625
+[2025.10.24-08.02.31:464][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-08.02.31:464][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 73312.687500, Update Interval: 306.670746
+[2025.10.24-08.03.26:616][147]Cmd: TRANSACTION UNDO
+[2025.10.24-08.03.26:617][147]LogEditorTransaction: Undo 移动元素
+[2025.10.24-08.03.28:146][210]Cmd: TRANSACTION UNDO
+[2025.10.24-08.03.28:146][210]LogEditorTransaction: Undo 设置缩放
+[2025.10.24-08.03.29:919][290]Cmd: TRANSACTION UNDO
+[2025.10.24-08.03.29:919][290]LogEditorTransaction: Undo 设置缩放
+[2025.10.24-08.03.32:177][399]Cmd: TRANSACTION UNDO
+[2025.10.24-08.03.32:177][399]LogEditorTransaction: Undo 设置缩放
+[2025.10.24-08.03.34:332][497]Cmd: TRANSACTION UNDO
+[2025.10.24-08.03.34:332][497]LogEditorTransaction: Undo 修改组件缩放
+[2025.10.24-08.03.38:682][731]Cmd: TRANSACTION UNDO
+[2025.10.24-08.03.38:682][731]LogEditorTransaction: Undo 点击组件（树视图）
+[2025.10.24-08.03.50:551][409]Cmd: TRANSACTION UNDO
+[2025.10.24-08.03.50:551][409]LogEditorTransaction: Undo 点击组件（树视图）
+[2025.10.24-08.03.52:063][475]Cmd: TRANSACTION UNDO
+[2025.10.24-08.03.52:063][475]LogEditorTransaction: Undo 重置缩放
+[2025.10.24-08.05.15:822][418]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-08.05.15:831][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.05.15:833][418]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.05.15:847][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014279s)
+[2025.10.24-08.05.15:847][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.014326s)
+[2025.10.24-08.05.15:888][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.24-08.05.15:893][418]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-08.05.15:895][418]LogPlayLevel: PIE: World Init took: (0.002079s)
+[2025.10.24-08.05.15:896][418]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.10.24-08.05.15:896][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.05.15:896][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.05.15:896][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.05.15:896][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.05.15:896][418]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.05.15:896][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.05.15:896][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.05.15:896][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.05.15:896][418]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.05.15:896][418]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.05.15:896][418]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.05.15:899][418]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.05.15:985][418]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-08.05.15:985][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.05.15:985][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.05.15:985][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.05.15:986][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.10.24-08.05.15:986][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.10.24-08.05.15:989][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.10.24-08.05.15:989][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.10.24-08.05.15:989][418]LogInit: FAudioDevice initialized with ID 27.
+[2025.10.24-08.05.15:989][418]LogAudio: Display: Audio Device (ID: 27) registered with world 'Level_4'.
+[2025.10.24-08.05.15:989][418]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.10.24-08.05.15:994][418]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-08.05.15:999][418]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-16.05.15
+[2025.10.24-08.05.15:999][418]LogWorld: Bringing up level for play took: 0.005160
+[2025.10.24-08.05.16:002][418]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2025.10.24-08.05.16:009][418]PIE: 登陆的服务器
+[2025.10.24-08.05.16:012][418]PIE: PIE总开始时间：0.18秒。
+[2025.10.24-08.05.16:073][419]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-08.05.43:888][ 83]LogBlueprintUserMessages: [StaticMeshActor_48] Hello
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: request failed, libcurl error: 35 (SSL connect error)
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 0 (Found bundle for host: 0x1ebdc080f90 [serially])
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 6 (Closing connection)
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 9 (  Trying 127.0.0.1:8890...)
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 10 (Connected to 127.0.0.1 (127.0.0.1) port 8890)
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 11 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 12 (allocate connect buffer)
+[2025.10.24-08.05.46:079][214]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 13 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.10.24-08.05.46:079][215]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 14 (CONNECT phase completed)
+[2025.10.24-08.05.46:079][215]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 15 (CONNECT tunnel established, response 200)
+[2025.10.24-08.05.46:079][215]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2025.10.24-08.05.46:079][215]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 17 (SSL reusing session ID)
+[2025.10.24-08.05.46:079][215]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 18 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.24-08.05.46:079][215]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 19 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.10.24-08.05.46:079][215]LogEOSSDK: Warning: LogHttp: 000001EC252A9C00: libcurl info message cache 20 (Closing connection)
+[2025.10.24-08.05.46:079][215]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.24-08.05.47:373][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.05.47:374][289]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.05.47:374][289]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.05.47:378][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.05.47:384][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.05.47:391][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.05.47:422][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-08.05.47:422][289]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.10.24-08.05.47:422][289]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2025.10.24-08.05.47:425][289]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2025.10.24-08.05.47:429][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.05.47:434][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.10.24-08.05.47:495][290]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE004E014-4131-7AA5-353A-6B907D5AA83B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f9dc41884127c250c3986297f8ab2256%7Ca41fff4601fa4822bb737dcb9088a53e%7C47df67cb-b287-4d6f-a49f-d89ef0685227&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: request failed, libcurl error: 35 (SSL connect error)
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 0 (Re-using existing connection with proxy 127.0.0.1)
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 1 (upload completely sent off: 793 bytes)
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 2 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 4 (shutting down connection #17)
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 5 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 6 (necessary data rewind was not possible)
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 7 (rewind of client reader 'cr-in' failed: 65)
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE004E014-4131-7AA5-353A-6B907D5AA83B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f9dc41884127c250c3986297f8ab2256%7Ca41fff4601fa4822bb737dcb9088a53e%7C47df67cb-b287-4d6f-a49f-d89ef0685227&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 9 (necessary data rewind was not possible)
+[2025.10.24-08.05.51:519][525]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 11 (  Trying 127.0.0.1:8890...)
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 12 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 13 (allocate connect buffer)
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 14 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 15 (CONNECT phase completed)
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 16 (CONNECT tunnel established, response 200)
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 17 (SSL reusing session)
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 18 (ALPN: curl offers http/1.1)
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 19 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 20 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 21 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00: libcurl info message cache 22 (closing connection #18)
+[2025.10.24-08.05.51:519][526]LogHttp: Warning: 000001EC22411C00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE004E014-4131-7AA5-353A-6B907D5AA83B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f9dc41884127c250c3986297f8ab2256%7Ca41fff4601fa4822bb737dcb9088a53e%7C47df67cb-b287-4d6f-a49f-d89ef0685227&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 10.30s
+[2025.10.24-08.06.10:508][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D52C2444430DE4480213468483CF77FC, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-08.06.10:508][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: request failed, libcurl error: 35 (SSL connect error)
+[2025.10.24-08.06.10:508][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 0 (Hostname 127.0.0.1 was found in DNS cache)
+[2025.10.24-08.06.10:508][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 1 (  Trying 127.0.0.1:8890...)
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 8890)
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 4 (allocate connect buffer)
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 5 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 6 (CONNECT phase completed)
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 9 (SSL reusing session ID)
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 11 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: 000001EDC04C7800: libcurl info message cache 12 (Closing connection)
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D52C2444430DE4480213468483CF77FC
+[2025.10.24-08.06.10:509][715]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.10.24-08.06.43:460][219]LogPathView: [None][PathView] HandleSettingChanged None
+[2025.10.24-08.06.43:460][219]LogPathView: [None][PathView] HandleSettingChanged None
+[2025.10.24-08.06.43:460][219]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.24-08.06.43:461][219]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.24-08.06.43:461][219]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.24-08.06.43:461][219]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.24-08.06.44:534][219]LogPathView: [None][PathView] HandleSettingChanged None
+[2025.10.24-08.06.44:534][219]LogPathView: [None][PathView] HandleSettingChanged None
+[2025.10.24-08.06.44:534][219]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.24-08.06.44:535][219]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.24-08.06.44:535][219]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.24-08.06.44:535][219]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.24-08.06.45:940][219]LogPathView: [None][PathView] HandleSettingChanged None
+[2025.10.24-08.06.45:940][219]LogPathView: [None][PathView] HandleSettingChanged None
+[2025.10.24-08.06.45:956][219]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.24-08.06.45:957][219]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.24-08.06.45:957][219]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.24-08.06.45:957][219]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.24-08.06.47:594][219]LogPathView: [None][PathView] HandleSettingChanged None
+[2025.10.24-08.06.47:594][219]LogPathView: [None][PathView] HandleSettingChanged None
+[2025.10.24-08.06.47:603][219]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.24-08.06.47:603][219]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.24-08.06.47:603][219]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.24-08.06.47:603][219]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.24-08.06.50:352][219]LogPathView: [None][PathView] HandleSettingChanged None
+[2025.10.24-08.06.50:352][219]LogPathView: [None][PathView] HandleSettingChanged None
+[2025.10.24-08.06.50:359][219]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.24-08.06.50:360][219]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.24-08.06.50:360][219]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.24-08.06.50:360][219]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.24-08.06.58:913][219]LogSlate: Window '选择要将内容导入的位置' being destroyed
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE004E014-4131-7AA5-353A-6B907D5AA83B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f9dc41884127c250c3986297f8ab2256%7Ca41fff4601fa4822bb737dcb9088a53e%7C47df67cb-b287-4d6f-a49f-d89ef0685227&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: request failed, libcurl error: 35 (SSL connect error)
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 1 (  Trying 127.0.0.1:8890...)
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 2 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 3 (allocate connect buffer)
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 4 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 5 (CONNECT phase completed)
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 6 (CONNECT tunnel established, response 200)
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 7 (ALPN: curl offers http/1.1)
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 8 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 9 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 10 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00: libcurl info message cache 11 (closing connection #19)
+[2025.10.24-08.07.04:010][478]LogHttp: Warning: 000001ED63BFCB00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE004E014-4131-7AA5-353A-6B907D5AA83B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f9dc41884127c250c3986297f8ab2256%7Ca41fff4601fa4822bb737dcb9088a53e%7C47df67cb-b287-4d6f-a49f-d89ef0685227&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 5.03s
+[2025.10.24-08.07.04:010][478]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-08.07.04:010][478]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: request failed, libcurl error: 35 (SSL connect error)
+[2025.10.24-08.07.04:010][478]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2025.10.24-08.07.04:010][478]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 1 (  Trying 127.0.0.1:8890...)
+[2025.10.24-08.07.04:010][478]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 8890)
+[2025.10.24-08.07.04:010][478]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-08.07.04:010][478]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 4 (allocate connect buffer)
+[2025.10.24-08.07.04:010][479]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 5 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.10.24-08.07.04:010][479]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 6 (CONNECT phase completed)
+[2025.10.24-08.07.04:010][479]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2025.10.24-08.07.04:010][479]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2025.10.24-08.07.04:010][479]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 9 (SSL reusing session ID)
+[2025.10.24-08.07.04:010][479]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.24-08.07.04:010][479]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 11 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.10.24-08.07.04:010][479]LogEOSSDK: Warning: LogHttp: 000001ECD80A6600: libcurl info message cache 12 (Closing connection)
+[2025.10.24-08.07.04:010][479]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.24-08.07.11:107][878]LogEditor: Attempting to add actor of class 'CableActor' to level at 700.00,-60.00,380.00
+[2025.10.24-08.07.17:390][248]Cmd: EDIT COPY
+[2025.10.24-08.07.19:049][345]Cmd: DELETE
+[2025.10.24-08.07.19:049][345]Cmd: ACTOR DELETE
+[2025.10.24-08.07.19:057][345]LogEditorActor: Deleted Actor: CableActor
+[2025.10.24-08.07.19:106][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.10.24-08.07.19:111][345]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2025.10.24-08.07.42:538][671]Cmd: DELETE
+[2025.10.24-08.07.42:538][671]Cmd: ACTOR DELETE
+[2025.10.24-08.07.42:542][671]LogEditorActor: Deleted Actor: bp_rope_C
+[2025.10.24-08.07.42:571][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.24-08.07.42:576][671]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.10.24-08.07.45:090][820]Cmd: EDIT PASTE
+[2025.10.24-08.07.45:749][855]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: request failed, libcurl error: 35 (SSL connect error)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 0 (Hostname 127.0.0.1 was found in DNS cache)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 1 (  Trying 127.0.0.1:8890...)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 8890)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 4 (allocate connect buffer)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 5 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 6 (CONNECT phase completed)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 9 (SSL reusing session ID)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 11 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.10.24-08.07.45:749][856]LogEOSSDK: Warning: LogHttp: 000001EE458C3600: libcurl info message cache 12 (Closing connection)
+[2025.10.24-08.07.45:765][856]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B43012F4F-4651-0E87-23BA-13A3EAAAD05E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.24-08.07.46:249][885]LogHttp: Warning: 000001ED32049A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE004E014-4131-7AA5-353A-6B907D5AA83B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f9dc41884127c250c3986297f8ab2256%7Ca41fff4601fa4822bb737dcb9088a53e%7C47df67cb-b287-4d6f-a49f-d89ef0685227&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-08.07.46:249][885]LogHttp: Warning: 000001ED32049A00: request failed, libcurl error: 35 (SSL connect error)
+[2025.10.24-08.07.46:249][885]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 0 (Hostname 127.0.0.1 was found in DNS cache)
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 1 (  Trying 127.0.0.1:8890...)
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 2 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 3 (allocate connect buffer)
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 4 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 5 (CONNECT phase completed)
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 6 (CONNECT tunnel established, response 200)
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 7 (ALPN: curl offers http/1.1)
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 8 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 9 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 10 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00: libcurl info message cache 11 (closing connection #20)
+[2025.10.24-08.07.46:249][886]LogHttp: Warning: 000001ED32049A00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE004E014-4131-7AA5-353A-6B907D5AA83B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f9dc41884127c250c3986297f8ab2256%7Ca41fff4601fa4822bb737dcb9088a53e%7C47df67cb-b287-4d6f-a49f-d89ef0685227&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 5.03s
+[2025.10.24-08.08.26:672][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 73651.570312
+[2025.10.24-08.08.27:058][274]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-08.08.27:058][274]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 73651.914062, Update Interval: 358.547913
+[2025.10.24-08.10.13:482][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.24-08.10.14:797][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.10.14:845][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_01/BP/Traps/bp_rope] ([2] browsable assets)...
+[2025.10.24-08.10.14:845][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Traps/bp_rope]
+[2025.10.24-08.10.14:845][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Traps/bp_rope" FILE="../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_rope.uasset" SILENT=true
+[2025.10.24-08.10.14:865][577]LogSavePackage: Moving output files for package: /Game/_01/BP/Traps/bp_rope
+[2025.10.24-08.10.14:865][577]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/bp_rope510BF3C74EE1B9FD6DD80C9CAE741F94.tmp' to '../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_rope.uasset'
+[2025.10.24-08.10.14:882][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.182 ms (total: 3.34 sec)
+[2025.10.24-08.10.14:939][577]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.10.14:939][577]LogContentValidation: Enabled validators:
+[2025.10.24-08.10.14:939][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.10.14:939][577]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.10.14:939][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.10.14:939][577]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.10.14:939][577]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.10.14:939][577]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.10.14:939][577]AssetCheck: /Game/_01/BP/Traps/bp_rope 正在验证资产
+[2025.10.24-08.11.09:875][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-08.11.09:875][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-08.11.09:877][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_3
+[2025.10.24-08.11.09:878][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_3
+[2025.10.24-08.11.14:000][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.24-08.11.14:036][317]LogEditorActor: Deleted 0 Actors (0.076 secs)
+[2025.10.24-08.11.14:045][317]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-08.11.14:045][317]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-08.11.14:048][317]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_4
+[2025.10.24-08.11.14:049][317]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_4
+[2025.10.24-08.13.05:779][327]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-08.13.05:791][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.13.05:791][327]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.13.05:805][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013680s)
+[2025.10.24-08.13.05:805][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.013727s)
+[2025.10.24-08.13.05:847][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.10.24-08.13.05:855][327]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-08.13.05:858][327]LogPlayLevel: PIE: World Init took: (0.002307s)
+[2025.10.24-08.13.05:858][327]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.10.24-08.13.05:859][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.13.05:859][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.13.05:859][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.13.05:859][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.13.05:859][327]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.13.05:859][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.13.05:859][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.13.05:859][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.13.05:859][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.13.05:859][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.13.05:859][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.13.05:861][327]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.13.05:972][327]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-08.13.05:972][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.13.05:972][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.13.05:972][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.13.05:973][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.10.24-08.13.05:973][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.10.24-08.13.05:976][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.10.24-08.13.05:976][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.10.24-08.13.05:976][327]LogInit: FAudioDevice initialized with ID 28.
+[2025.10.24-08.13.05:976][327]LogAudio: Display: Audio Device (ID: 28) registered with world 'Level_4'.
+[2025.10.24-08.13.05:976][327]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.24-08.13.05:983][327]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-08.13.05:990][327]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-16.13.05
+[2025.10.24-08.13.05:990][327]LogWorld: Bringing up level for play took: 0.007016
+[2025.10.24-08.13.05:994][327]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.10.24-08.13.06:002][327]PIE: 登陆的服务器
+[2025.10.24-08.13.06:005][327]PIE: PIE总开始时间：0.214秒。
+[2025.10.24-08.13.06:069][328]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-08.13.09:436][527]LogDerivedDataCache: C:/Users/李冰欣/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.24-08.13.13:162][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.13.13:162][748]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.13.13:162][748]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.13.13:165][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.13.13:170][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.13.13:179][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.13.13:219][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.13.13:220][748]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.24-08.13.13:220][748]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2025.10.24-08.13.13:223][748]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2025.10.24-08.13.13:232][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.10.24-08.13.13:324][749]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.10.24-08.14.45:584][301]Cmd: TRANSACTION UNDO
+[2025.10.24-08.14.45:584][301]LogEditorTransaction: Undo 重置位置
+[2025.10.24-08.14.56:541][931]Cmd: TRANSACTION UNDO
+[2025.10.24-08.14.56:541][931]LogEditorTransaction: Undo 点击Actor
+[2025.10.24-08.15.00:151][120]Cmd: TRANSACTION UNDO
+[2025.10.24-08.15.00:151][120]LogEditorTransaction: Undo 重置位置
+[2025.10.24-08.15.00:612][125]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 74028.710938
+[2025.10.24-08.15.01:078][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-08.15.01:078][151]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 74029.140625, Update Interval: 350.005798
+[2025.10.24-08.15.09:144][635]Cmd: TRANSACTION UNDO
+[2025.10.24-08.15.09:144][635]LogEditorTransaction: Undo 点击Actor
+[2025.10.24-08.15.13:318][860]Cmd: TRANSACTION UNDO
+[2025.10.24-08.15.13:318][860]LogEditorTransaction: Undo 移动元素
+[2025.10.24-08.15.30:823][886]Cmd: TRANSACTION UNDO
+[2025.10.24-08.15.30:823][886]LogEditorTransaction: Undo 移动元素
+[2025.10.24-08.16.58:064][ 44]Cmd: DELETE
+[2025.10.24-08.16.58:064][ 44]Cmd: ACTOR DELETE
+[2025.10.24-08.16.58:065][ 44]LogEditorActor: Cannot delete component BoxComponent /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_4.Box: 无法删除非实例化的组件或场景根。
+[2025.10.24-08.17.03:765][385]Cmd: DELETE
+[2025.10.24-08.17.03:765][385]Cmd: ACTOR DELETE
+[2025.10.24-08.17.03:765][385]LogEditorActor: Cannot delete component BoxComponent /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_4.Box: 无法删除非实例化的组件或场景根。
+[2025.10.24-08.17.06:298][537]Cmd: DELETE
+[2025.10.24-08.17.06:299][537]Cmd: ACTOR DELETE
+[2025.10.24-08.17.06:299][537]LogEditorActor: Cannot delete component BoxComponent /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_4.Box: 无法删除非实例化的组件或场景根。
+[2025.10.24-08.17.18:837][247]Cmd: DELETE
+[2025.10.24-08.17.18:837][247]Cmd: ACTOR DELETE
+[2025.10.24-08.17.18:842][247]LogEditorActor: Deleted Actor: bp_rope_C
+[2025.10.24-08.17.18:877][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.24-08.17.18:885][247]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2025.10.24-08.17.21:117][375]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-08.17.21:117][375]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-08.17.21:118][375]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_5
+[2025.10.24-08.17.21:119][375]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_5
+[2025.10.24-08.17.21:911][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.24-08.17.21:915][419]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2025.10.24-08.17.21:923][419]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-08.17.21:923][419]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_01/BP/Traps/bp_rope.bp_rope_C
+[2025.10.24-08.17.21:925][419]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_6
+[2025.10.24-08.17.21:926][419]LogActorFactory: Actor Factory spawned Blueprint /Game/_01/BP/Traps/bp_rope.bp_rope as actor: bp_rope_C /Game/_01/Maps/Level_4.Level_4:PersistentLevel.bp_rope_C_6
+[2025.10.24-08.17.53:256][253]Cmd: TRANSACTION UNDO
+[2025.10.24-08.17.53:256][253]LogEditorTransaction: Undo 附加Actor
+[2025.10.24-08.21.39:439][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.21.39:480][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_01/BP/Traps/bp_rope] ([2] browsable assets)...
+[2025.10.24-08.21.39:480][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Traps/bp_rope]
+[2025.10.24-08.21.39:481][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Traps/bp_rope" FILE="../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_rope.uasset" SILENT=true
+[2025.10.24-08.21.39:501][303]LogSavePackage: Moving output files for package: /Game/_01/BP/Traps/bp_rope
+[2025.10.24-08.21.39:501][303]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/bp_ropeD0D99B2F422685CEDD4D9BA482BD4C32.tmp' to '../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_rope.uasset'
+[2025.10.24-08.21.39:521][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.496 ms (total: 3.42 sec)
+[2025.10.24-08.21.39:580][303]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.21.39:580][303]LogContentValidation: Enabled validators:
+[2025.10.24-08.21.39:580][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.21.39:580][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.21.39:580][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.21.39:580][303]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.21.39:580][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.21.39:580][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.21.39:580][303]AssetCheck: /Game/_01/BP/Traps/bp_rope 正在验证资产
+[2025.10.24-08.21.42:436][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 74413.226562
+[2025.10.24-08.21.42:842][490]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-08.21.42:842][490]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 74413.601562, Update Interval: 319.376801
+[2025.10.24-08.21.43:194][511]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-08.21.43:204][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.21.43:241][511]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.21.43:264][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022634s)
+[2025.10.24-08.21.43:264][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.022714s)
+[2025.10.24-08.21.43:310][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.10.24-08.21.43:320][511]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-08.21.43:323][511]LogPlayLevel: PIE: World Init took: (0.002338s)
+[2025.10.24-08.21.43:324][511]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.10.24-08.21.43:324][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.21.43:324][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.21.43:324][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.21.43:324][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.21.43:324][511]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.21.43:324][511]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.21.43:324][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.21.43:324][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.21.43:324][511]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.21.43:324][511]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.21.43:324][511]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.21.43:326][511]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.21.43:414][511]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-08.21.43:414][511]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.21.43:414][511]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.21.43:414][511]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.21.43:415][511]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.10.24-08.21.43:415][511]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.10.24-08.21.43:417][511]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.10.24-08.21.43:417][511]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.10.24-08.21.43:417][511]LogInit: FAudioDevice initialized with ID 29.
+[2025.10.24-08.21.43:417][511]LogAudio: Display: Audio Device (ID: 29) registered with world 'Level_4'.
+[2025.10.24-08.21.43:417][511]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.24-08.21.43:424][511]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-08.21.43:428][511]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-16.21.43
+[2025.10.24-08.21.43:428][511]LogWorld: Bringing up level for play took: 0.004576
+[2025.10.24-08.21.43:430][511]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.10.24-08.21.43:436][511]PIE: 登陆的服务器
+[2025.10.24-08.21.43:439][511]PIE: PIE总开始时间：0.235秒。
+[2025.10.24-08.21.43:488][512]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-08.22.03:805][725]LogBlueprintUserMessages: [StaticMeshActor_47] Hello
+[2025.10.24-08.22.06:713][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.22.06:713][898]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.22.06:713][898]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.22.06:715][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.22.06:719][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.22.06:725][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.22.06:769][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.22.06:770][898]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.24-08.22.06:770][898]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2025.10.24-08.22.06:772][898]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2025.10.24-08.22.06:783][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.10.24-08.22.06:851][899]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.10.24-08.22.09:124][ 32]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-08.22.09:133][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.22.09:133][ 32]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.22.09:147][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013513s)
+[2025.10.24-08.22.09:147][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.013557s)
+[2025.10.24-08.22.09:169][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.24-08.22.09:173][ 32]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-08.22.09:175][ 32]LogPlayLevel: PIE: World Init took: (0.001857s)
+[2025.10.24-08.22.09:176][ 32]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.10.24-08.22.09:176][ 32]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.22.09:176][ 32]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.22.09:176][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.22.09:176][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.22.09:176][ 32]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.22.09:176][ 32]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.22.09:176][ 32]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.22.09:176][ 32]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.22.09:176][ 32]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.22.09:176][ 32]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.22.09:176][ 32]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.22.09:179][ 32]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.22.09:260][ 32]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-08.22.09:260][ 32]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.22.09:260][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.22.09:260][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.22.09:260][ 32]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.10.24-08.22.09:261][ 32]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.10.24-08.22.09:264][ 32]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.10.24-08.22.09:264][ 32]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.10.24-08.22.09:264][ 32]LogInit: FAudioDevice initialized with ID 30.
+[2025.10.24-08.22.09:264][ 32]LogAudio: Display: Audio Device (ID: 30) registered with world 'Level_4'.
+[2025.10.24-08.22.09:264][ 32]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.24-08.22.09:269][ 32]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-08.22.09:275][ 32]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-16.22.09
+[2025.10.24-08.22.09:276][ 32]LogWorld: Bringing up level for play took: 0.006789
+[2025.10.24-08.22.09:279][ 32]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.10.24-08.22.09:286][ 32]PIE: 登陆的服务器
+[2025.10.24-08.22.09:289][ 32]PIE: PIE总开始时间：0.155秒。
+[2025.10.24-08.22.09:346][ 33]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-08.22.39:580][843]LogBlueprintUserMessages: [StaticMeshActor_46] Hello
+[2025.10.24-08.22.41:692][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.22.41:692][968]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.22.41:693][968]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.22.41:696][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.22.41:702][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.22.41:710][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.22.41:758][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.22.41:759][968]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.24-08.22.41:759][968]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2025.10.24-08.22.41:762][968]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2025.10.24-08.22.41:769][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.24-08.22.41:834][969]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.10.24-08.24.29:321][292]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.10.24-08.24.29:332][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.24.29:333][292]LogPlayLevel: Creating play world package: /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.24.29:346][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013907s)
+[2025.10.24-08.24.29:346][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_01/Maps/Level_4.Level_4 to /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 (0.013948s)
+[2025.10.24-08.24.29:392][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.10.24-08.24.29:397][292]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_4
+[2025.10.24-08.24.29:398][292]LogPlayLevel: PIE: World Init took: (0.001838s)
+[2025.10.24-08.24.29:400][292]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.10.24-08.24.29:400][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.24.29:400][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.24.29:400][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.24.29:400][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.24.29:400][292]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.24.29:400][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.24.29:400][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.24.29:400][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.24.29:400][292]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.24.29:400][292]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.24.29:400][292]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.24.29:402][292]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.24.29:510][292]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.10.24-08.24.29:510][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.24.29:510][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.24.29:510][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.24.29:510][292]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.10.24-08.24.29:510][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.10.24-08.24.29:513][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.10.24-08.24.29:513][292]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.10.24-08.24.29:513][292]LogInit: FAudioDevice initialized with ID 31.
+[2025.10.24-08.24.29:513][292]LogAudio: Display: Audio Device (ID: 31) registered with world 'Level_4'.
+[2025.10.24-08.24.29:514][292]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.24-08.24.29:518][292]LogLoad: Game class is 'BP_ParkourGameMode_C'
+[2025.10.24-08.24.29:525][292]LogWorld: Bringing World /Game/_01/Maps/UEDPIE_0_Level_4.Level_4 up for play (max tick rate 60) at 2025.10.24-16.24.29
+[2025.10.24-08.24.29:526][292]LogWorld: Bringing up level for play took: 0.006366
+[2025.10.24-08.24.29:528][292]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.10.24-08.24.29:534][292]PIE: 登陆的服务器
+[2025.10.24-08.24.29:537][292]PIE: PIE总开始时间：0.206秒。
+[2025.10.24-08.24.29:600][293]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.24-08.24.55:063][814]LogBlueprintUserMessages: [StaticMeshActor_46] Hello
+[2025.10.24-08.24.56:422][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.24.56:422][893]LogWorld: BeginTearingDown for /Game/_01/Maps/UEDPIE_0_Level_4
+[2025.10.24-08.24.56:423][893]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.24.56:426][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.24.56:432][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.24.56:440][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.24.56:471][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.24.56:472][893]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.24-08.24.56:472][893]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2025.10.24-08.24.56:474][893]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2025.10.24-08.24.56:484][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.24-08.24.56:555][894]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.10.24-08.25.28:974][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.25.29:016][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/Maps/Level_4" FILE="../../../../0x0000/ParkourGame/Content/_01/Maps/Level_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.24-08.25.29:074][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.24-08.25.29:125][ 10]LogSavePackage: Moving output files for package: /Game/_01/Maps/Level_4
+[2025.10.24-08.25.29:126][ 10]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/Level_4B0BF56B64A4BFBC18DFA278C28A85F90.tmp' to '../../../../0x0000/ParkourGame/Content/_01/Maps/Level_4.umap'
+[2025.10.24-08.25.29:142][ 10]LogFileHelpers: Saving map 'Level_4' took 0.127
+[2025.10.24-08.25.29:155][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.711 ms (total: 3.60 sec)
+[2025.10.24-08.25.29:198][ 10]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.25.29:198][ 10]LogContentValidation: Enabled validators:
+[2025.10.24-08.25.29:198][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.25.29:198][ 10]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.25.29:198][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.25.29:198][ 10]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.25.29:198][ 10]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.25.29:198][ 10]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.25.29:198][ 10]AssetCheck: /Game/_01/Maps/Level_4 正在验证资产
