@@ -4861,3 +4861,371 @@ FPackageName: Skipped package /Game/_GENERATED/fsd13/纯黑 has a valid, mounted
 [2025.10.24-08.25.29:198][ 10]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.24-08.25.29:198][ 10]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.24-08.25.29:198][ 10]AssetCheck: /Game/_01/Maps/Level_4 正在验证资产
+[2025.10.24-08.26.02:878][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.02:927][416]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_CubeGridToolOutput_CB52E991] ([2] browsable assets)...
+[2025.10.24-08.26.02:927][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CubeGridToolOutput_CB52E991]
+[2025.10.24-08.26.02:927][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CubeGridToolOutput_CB52E991" FILE="../../../../0x0000/ParkourGame/Content/Blueprints/BP_CubeGridToolOutput_CB52E991.uasset" SILENT=true
+[2025.10.24-08.26.02:998][416]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CubeGridToolOutput_CB52E991
+[2025.10.24-08.26.02:998][416]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/BP_CubeGridToolOutput_CB52E991A1E0599B4D9088E46A844AA8D81760A5.tmp' to '../../../../0x0000/ParkourGame/Content/Blueprints/BP_CubeGridToolOutput_CB52E991.uasset'
+[2025.10.24-08.26.03:018][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.288 ms (total: 3.74 sec)
+[2025.10.24-08.26.03:067][416]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.03:067][416]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.03:067][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.03:067][416]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.03:067][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.03:067][416]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.03:067][416]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.03:067][416]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.03:067][416]AssetCheck: /Game/Blueprints/BP_CubeGridToolOutput_CB52E991 正在验证资产
+[2025.10.24-08.26.05:210][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.05:267][514]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_01/BP/Player/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.24-08.26.05:370][514]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_01/BP/Player/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.24-08.26.05:371][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Player/BP_ThirdPersonCharacter]
+[2025.10.24-08.26.05:371][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Player/BP_ThirdPersonCharacter" FILE="../../../../0x0000/ParkourGame/Content/_01/BP/Player/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.10.24-08.26.05:422][514]LogSavePackage: Moving output files for package: /Game/_01/BP/Player/BP_ThirdPersonCharacter
+[2025.10.24-08.26.05:422][514]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/BP_ThirdPersonCharacter14CBC42C496CB780E680E9B9037D3EB2.tmp' to '../../../../0x0000/ParkourGame/Content/_01/BP/Player/BP_ThirdPersonCharacter.uasset'
+[2025.10.24-08.26.05:443][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 233.060 ms (total: 3.97 sec)
+[2025.10.24-08.26.05:500][514]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.05:500][514]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.05:500][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.05:500][514]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.05:500][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.05:500][514]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.05:500][514]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.05:500][514]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.05:500][514]AssetCheck: /Game/_01/BP/Player/BP_ThirdPersonCharacter 正在验证资产
+[2025.10.24-08.26.08:030][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.08:076][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_01/BP/Gamemode/BP_ParkourGameMode] ([2] browsable assets)...
+[2025.10.24-08.26.08:076][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Gamemode/BP_ParkourGameMode]
+[2025.10.24-08.26.08:076][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Gamemode/BP_ParkourGameMode" FILE="../../../../0x0000/ParkourGame/Content/_01/BP/Gamemode/BP_ParkourGameMode.uasset" SILENT=true
+[2025.10.24-08.26.08:104][654]LogSavePackage: Moving output files for package: /Game/_01/BP/Gamemode/BP_ParkourGameMode
+[2025.10.24-08.26.08:104][654]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/BP_ParkourGameMode5CC9CC65474C03104FDDE2BE548412AB.tmp' to '../../../../0x0000/ParkourGame/Content/_01/BP/Gamemode/BP_ParkourGameMode.uasset'
+[2025.10.24-08.26.08:129][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.909 ms (total: 4.07 sec)
+[2025.10.24-08.26.08:186][654]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.08:187][654]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.08:187][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.08:187][654]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.08:187][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.08:187][654]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.08:187][654]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.08:187][654]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.08:187][654]AssetCheck: /Game/_01/BP/Gamemode/BP_ParkourGameMode 正在验证资产
+[2025.10.24-08.26.08:226][654]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../0x0000/ParkourGame/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.24-08.26.10:301][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.10:357][767]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Cone_5DF16248] ([2] browsable assets)...
+[2025.10.24-08.26.10:370][767]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Cone_5DF16248.BP_Cone_5DF16248]
+[2025.10.24-08.26.10:370][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Cone_5DF16248]
+[2025.10.24-08.26.10:370][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Cone_5DF16248" FILE="../../../../0x0000/ParkourGame/Content/Blueprints/BP_Cone_5DF16248.uasset" SILENT=true
+[2025.10.24-08.26.10:379][767]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Cone_5DF16248
+[2025.10.24-08.26.10:379][767]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/BP_Cone_5DF162481BE1D7BD4E7D065609E4FE8712B29A20.tmp' to '../../../../0x0000/ParkourGame/Content/Blueprints/BP_Cone_5DF16248.uasset'
+[2025.10.24-08.26.10:396][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.867 ms (total: 4.17 sec)
+[2025.10.24-08.26.10:445][767]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.10:445][767]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.10:445][767]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.10:445][767]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.10:445][767]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.10:445][767]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.10:445][767]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.10:446][767]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.10:446][767]AssetCheck: /Game/Blueprints/BP_Cone_5DF16248 正在验证资产
+[2025.10.24-08.26.12:585][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.12:643][888]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_01/BP/Traps/bp_Cone_FB9188E3] ([2] browsable assets)...
+[2025.10.24-08.26.12:643][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Traps/bp_Cone_FB9188E3]
+[2025.10.24-08.26.12:643][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Traps/bp_Cone_FB9188E3" FILE="../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_Cone_FB9188E3.uasset" SILENT=true
+[2025.10.24-08.26.12:653][888]LogSavePackage: Moving output files for package: /Game/_01/BP/Traps/bp_Cone_FB9188E3
+[2025.10.24-08.26.12:654][888]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/bp_Cone_FB9188E36889D3C549700C03C85F0BA75EC5527D.tmp' to '../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_Cone_FB9188E3.uasset'
+[2025.10.24-08.26.12:679][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.586 ms (total: 4.26 sec)
+[2025.10.24-08.26.12:731][888]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.12:731][888]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.12:731][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.12:731][888]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.12:731][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.12:731][888]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.12:731][888]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.12:731][888]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.12:731][888]AssetCheck: /Game/_01/BP/Traps/bp_Cone_FB9188E3 正在验证资产
+[2025.10.24-08.26.12:757][888]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../0x0000/ParkourGame/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.24-08.26.15:180][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.15:240][ 32]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Cone_8B5C46FC] ([2] browsable assets)...
+[2025.10.24-08.26.15:328][ 32]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Cone_8B5C46FC.BP_Cone_8B5C46FC]
+[2025.10.24-08.26.15:328][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Cone_8B5C46FC]
+[2025.10.24-08.26.15:328][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Cone_8B5C46FC" FILE="../../../../0x0000/ParkourGame/Content/Blueprints/BP_Cone_8B5C46FC.uasset" SILENT=true
+[2025.10.24-08.26.15:341][ 32]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Cone_8B5C46FC
+[2025.10.24-08.26.15:342][ 32]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/BP_Cone_8B5C46FC15825F3844F57E2984FD24ABC5ABBC16.tmp' to '../../../../0x0000/ParkourGame/Content/Blueprints/BP_Cone_8B5C46FC.uasset'
+[2025.10.24-08.26.15:360][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.471 ms (total: 4.44 sec)
+[2025.10.24-08.26.15:400][ 32]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.15:400][ 32]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.15:400][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.15:400][ 32]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.15:400][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.15:400][ 32]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.15:400][ 32]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.15:400][ 32]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.15:400][ 32]AssetCheck: /Game/Blueprints/BP_Cone_8B5C46FC 正在验证资产
+[2025.10.24-08.26.17:691][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.17:743][167]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Cone_D3F4C17A] ([2] browsable assets)...
+[2025.10.24-08.26.17:823][167]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Cone_D3F4C17A.BP_Cone_D3F4C17A]
+[2025.10.24-08.26.17:823][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Cone_D3F4C17A]
+[2025.10.24-08.26.17:823][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Cone_D3F4C17A" FILE="../../../../0x0000/ParkourGame/Content/Blueprints/BP_Cone_D3F4C17A.uasset" SILENT=true
+[2025.10.24-08.26.17:835][167]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Cone_D3F4C17A
+[2025.10.24-08.26.17:835][167]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/BP_Cone_D3F4C17AF26C1B414A64CAABA7DD2D8F2269DA20.tmp' to '../../../../0x0000/ParkourGame/Content/Blueprints/BP_Cone_D3F4C17A.uasset'
+[2025.10.24-08.26.17:849][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.668 ms (total: 4.60 sec)
+[2025.10.24-08.26.17:906][167]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.17:906][167]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.17:906][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.17:906][167]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.17:906][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.17:906][167]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.17:906][167]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.17:906][167]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.17:906][167]AssetCheck: /Game/Blueprints/BP_Cone_D3F4C17A 正在验证资产
+[2025.10.24-08.26.20:997][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.21:066][347]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Cone_AE2219FB] ([2] browsable assets)...
+[2025.10.24-08.26.21:152][347]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Cone_AE2219FB.BP_Cone_AE2219FB]
+[2025.10.24-08.26.21:152][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Cone_AE2219FB]
+[2025.10.24-08.26.21:152][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Cone_AE2219FB" FILE="../../../../0x0000/ParkourGame/Content/Blueprints/BP_Cone_AE2219FB.uasset" SILENT=true
+[2025.10.24-08.26.21:164][347]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Cone_AE2219FB
+[2025.10.24-08.26.21:165][347]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/BP_Cone_AE2219FB60E3F3AD4AB7896825D7B5BBD2F1C560.tmp' to '../../../../0x0000/ParkourGame/Content/Blueprints/BP_Cone_AE2219FB.uasset'
+[2025.10.24-08.26.21:188][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.451 ms (total: 4.79 sec)
+[2025.10.24-08.26.21:242][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.21:242][347]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.21:242][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.21:242][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.21:242][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.21:242][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.21:242][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.21:242][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.21:242][347]AssetCheck: /Game/Blueprints/BP_Cone_AE2219FB 正在验证资产
+[2025.10.24-08.26.24:085][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.24:140][487]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_01/Maps/_GENERATED/fsd13/CubeGridToolOutput_9CE539BD] ([1] browsable assets)...
+[2025.10.24-08.26.24:140][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/Maps/_GENERATED/fsd13/CubeGridToolOutput_9CE539BD]
+[2025.10.24-08.26.24:148][487]LogSavePackage: Moving output files for package: /Game/_01/Maps/_GENERATED/fsd13/CubeGridToolOutput_9CE539BD
+[2025.10.24-08.26.24:150][487]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/CubeGridToolOutput_9CE539BD3ED9546E4D65288FDA065AA485AE4B26.tmp' to '../../../../0x0000/ParkourGame/Content/_01/Maps/_GENERATED/fsd13/CubeGridToolOutput_9CE539BD.uasset'
+[2025.10.24-08.26.24:178][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.053 ms (total: 4.88 sec)
+[2025.10.24-08.26.24:230][487]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.24:231][487]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.24:231][487]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.24:231][487]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.24:231][487]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.24:231][487]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.24:231][487]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.24:231][487]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.24:231][487]AssetCheck: /Game/_01/Maps/_GENERATED/fsd13/CubeGridToolOutput_9CE539BD 正在验证资产
+[2025.10.24-08.26.24:257][487]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../0x0000/ParkourGame/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.24-08.26.27:156][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.27:210][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_CubeGridToolOutput_9CE539BD] ([2] browsable assets)...
+[2025.10.24-08.26.27:211][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CubeGridToolOutput_9CE539BD]
+[2025.10.24-08.26.27:211][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CubeGridToolOutput_9CE539BD" FILE="../../../../0x0000/ParkourGame/Content/Blueprints/BP_CubeGridToolOutput_9CE539BD.uasset" SILENT=true
+[2025.10.24-08.26.27:217][655]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CubeGridToolOutput_9CE539BD
+[2025.10.24-08.26.27:217][655]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/BP_CubeGridToolOutput_9CE539BD0E5CC7E44AD4003298118E97DAD80769.tmp' to '../../../../0x0000/ParkourGame/Content/Blueprints/BP_CubeGridToolOutput_9CE539BD.uasset'
+[2025.10.24-08.26.27:237][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.658 ms (total: 4.96 sec)
+[2025.10.24-08.26.27:293][655]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.27:293][655]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.27:293][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.27:293][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.27:293][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.27:293][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.27:293][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.27:293][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.27:293][655]AssetCheck: /Game/Blueprints/BP_CubeGridToolOutput_9CE539BD 正在验证资产
+[2025.10.24-08.26.30:105][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.30:178][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_01/BP/Gamemode/BP_GameInstance] ([2] browsable assets)...
+[2025.10.24-08.26.30:178][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Gamemode/BP_GameInstance]
+[2025.10.24-08.26.30:178][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Gamemode/BP_GameInstance" FILE="../../../../0x0000/ParkourGame/Content/_01/BP/Gamemode/BP_GameInstance.uasset" SILENT=true
+[2025.10.24-08.26.30:189][816]LogSavePackage: Moving output files for package: /Game/_01/BP/Gamemode/BP_GameInstance
+[2025.10.24-08.26.30:190][816]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/BP_GameInstance5F0C7D4145B4EA3088A8B783EA497178.tmp' to '../../../../0x0000/ParkourGame/Content/_01/BP/Gamemode/BP_GameInstance.uasset'
+[2025.10.24-08.26.30:216][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.248 ms (total: 5.07 sec)
+[2025.10.24-08.26.30:281][816]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.30:281][816]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.30:281][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.30:281][816]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.30:281][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.30:281][816]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.30:281][816]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.30:281][816]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.30:281][816]AssetCheck: /Game/_01/BP/Gamemode/BP_GameInstance 正在验证资产
+[2025.10.24-08.26.30:312][816]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../0x0000/ParkourGame/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.24-08.26.33:440][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.33:488][997]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_01/BP/Traps/bp_Seesaw] ([2] browsable assets)...
+[2025.10.24-08.26.33:488][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Traps/bp_Seesaw]
+[2025.10.24-08.26.33:488][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Traps/bp_Seesaw" FILE="../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_Seesaw.uasset" SILENT=true
+[2025.10.24-08.26.33:495][997]LogSavePackage: Moving output files for package: /Game/_01/BP/Traps/bp_Seesaw
+[2025.10.24-08.26.33:496][997]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/bp_SeesawC7DD629E4B0A743A11826DBA746DA288.tmp' to '../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_Seesaw.uasset'
+[2025.10.24-08.26.33:516][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.533 ms (total: 5.15 sec)
+[2025.10.24-08.26.33:568][997]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.33:568][997]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.33:568][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.33:568][997]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.33:568][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.33:568][997]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.33:568][997]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.33:568][997]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.33:568][997]AssetCheck: /Game/_01/BP/Traps/bp_Seesaw 正在验证资产
+[2025.10.24-08.26.33:597][997]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../0x0000/ParkourGame/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.24-08.26.40:878][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.26.40:930][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_01/BP/Traps/bp_rope] ([2] browsable assets)...
+[2025.10.24-08.26.40:930][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/_01/BP/Traps/bp_rope]
+[2025.10.24-08.26.40:930][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_01/BP/Traps/bp_rope" FILE="../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_rope.uasset" SILENT=true
+[2025.10.24-08.26.40:951][401]LogSavePackage: Moving output files for package: /Game/_01/BP/Traps/bp_rope
+[2025.10.24-08.26.40:952][401]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/bp_rope745B7AB649E44DD0E97D788E7217B04D.tmp' to '../../../../0x0000/ParkourGame/Content/_01/BP/Traps/bp_rope.uasset'
+[2025.10.24-08.26.40:968][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.031 ms (total: 5.24 sec)
+[2025.10.24-08.26.41:016][401]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.26.41:016][401]LogContentValidation: Enabled validators:
+[2025.10.24-08.26.41:016][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.26.41:016][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.26.41:016][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.26.41:016][401]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.26.41:016][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.26.41:016][401]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.26.41:016][401]AssetCheck: /Game/_01/BP/Traps/bp_rope 正在验证资产
+[2025.10.24-08.26.42:506][477]LogSlate: Window 'bp_rope' being destroyed
+[2025.10.24-08.26.42:519][477]LogSlate: Window 'bp_rope' being destroyed
+[2025.10.24-08.26.42:528][477]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.42:528][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.42:627][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.24-08.26.43:060][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.24-08.26.43:137][499]LogStall: Shutdown...
+[2025.10.24-08.26.43:137][499]LogStall: Shutdown complete.
+[2025.10.24-08.26.43:236][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-08.26.43:236][499]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.43:236][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.43:442][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-08.26.43:442][499]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.43:442][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.43:633][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-08.26.43:633][499]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.43:633][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.43:786][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-08.26.43:786][499]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.43:787][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.43:940][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-08.26.43:941][499]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.43:941][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.44:106][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-08.26.44:106][499]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.44:106][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.44:274][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-08.26.44:274][499]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.44:274][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.44:422][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-08.26.44:422][499]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.44:422][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.44:587][499]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.44:588][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.44:649][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-08.26.44:649][499]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.44:649][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.44:778][499]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.44:778][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.44:840][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-08.26.44:840][499]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.44:840][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.44:954][499]LogSlate: Window 'ParkourGame - 虚幻编辑器' being destroyed
+[2025.10.24-08.26.44:957][499]LogWindowsTextInputMethodSystem: Activated input method: 简体中文(中国大陆) - 微软拼音 (TSF IME).
+[2025.10.24-08.26.45:730][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.10.24-08.26.45:797][500]Cmd: QUIT_EDITOR
+[2025.10.24-08.26.45:797][500]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.24-08.26.45:810][500]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.24-08.26.45:817][500]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.24-08.26.45:818][500]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.24-08.26.45:821][500]LogWorld: UWorld::CleanupWorld for Level_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:821][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:840][500]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.24-08.26.45:840][500]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.24-08.26.45:843][500]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.24-08.26.45:890][500]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:892][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:895][500]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:895][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:898][500]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:898][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:900][500]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:900][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:902][500]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:902][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:905][500]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:905][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:908][500]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:908][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:911][500]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:911][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:914][500]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:914][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:916][500]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:916][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:919][500]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:919][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:922][500]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:922][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:924][500]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:924][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:927][500]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:927][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:929][500]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:929][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:932][500]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:933][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:936][500]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:936][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:938][500]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.26.45:938][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.26.45:945][500]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.24-08.26.45:945][500]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.24-08.26.45:948][500]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.24-08.26.46:097][500]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.24-08.26.46:097][500]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.24-08.26.46:097][500]LogAudio: Display: Audio Device unregistered from world 'Level_4'.
+[2025.10.24-08.26.46:097][500]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.24-08.26.46:097][500]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.24-08.26.46:100][500]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.24-08.26.46:116][500]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.24-08.26.46:116][500]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.24-08.26.46:128][500]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.24-08.26.46:129][500]LogExit: Preparing to exit.
+[2025.10.24-08.26.46:244][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2025.10.24-08.26.46:253][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:253][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:255][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:255][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:255][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:255][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:256][500]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-08.26.46:869][500]LogEditorDataStorage: Deinitializing
+[2025.10.24-08.26.47:196][500]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.24-08.26.47:261][500]LogExit: Editor shut down
+[2025.10.24-08.26.47:283][500]LogExit: Transaction tracking system shut down
+[2025.10.24-08.26.48:005][500]LogExit: Object subsystem successfully closed.
+[2025.10.24-08.26.48:036][500]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.24-08.26.48:274][500]LogMemoryProfiler: Shutdown
+[2025.10.24-08.26.48:275][500]LogNetworkingProfiler: Shutdown
+[2025.10.24-08.26.48:275][500]LoadingProfiler: Shutdown
+[2025.10.24-08.26.48:276][500]LogTimingProfiler: Shutdown
+[2025.10.24-08.26.48:281][500]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.24-08.26.48:281][500]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.24-08.26.49:033][500]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.24-08.26.49:035][500]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.24-08.26.49:036][500]RenderDocPlugin: plugin has been unloaded.
+[2025.10.24-08.26.49:080][500]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.24-08.26.49:080][500]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE004E014-4131-7AA5-353A-6B907D5AA83B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f9dc41884127c250c3986297f8ab2256%7Ca41fff4601fa4822bb737dcb9088a53e%7C47df67cb-b287-4d6f-a49f-d89ef0685227&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.24-08.26.50:150][500]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.24-08.26.50:182][500]LogXGEController: Cleaning working directory: C:/Users/李冰欣/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.24-08.26.50:193][500]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.24-08.26.50:193][500]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.24-08.26.50:193][500]LogPakFile: Destroying PakPlatformFile
+[2025.10.24-08.26.53:178][500]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.24-08.26.53:435][500]LogExit: Exiting.
+[2025.10.24-08.26.53:469][500]Log file closed, 10/24/25 16:26:53
