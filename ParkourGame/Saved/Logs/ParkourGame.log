@@ -2854,3 +2854,4 @@ FPackageName: Skipped package /Game/_GENERATED/fsd13/纯黑 has a valid, mounted
 [2025.10.24-06.12.50:829][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_01/BP/Player/BP_ThirdPersonCharacter_Auto9
 [2025.10.24-06.12.50:829][773]LogSavePackage: Moving '../../../../0x0000/ParkourGame/Saved/BP_ThirdPersonCharacter_Auto93381BC304C4574C5FB56CA9D6EE3A595.tmp' to '../../../../0x0000/ParkourGame/Saved/Autosaves/Game/_01/BP/Player/BP_ThirdPersonCharacter_Auto9.uasset'
 [2025.10.24-06.12.50:830][773]LogFileHelpers: Auto-saving content packages took 0.250
+[2025.10.24-06.13.09:436][830]LogDerivedDataCache: C:/Users/李冰欣/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
