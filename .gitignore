@@ -1,3 +1,26 @@
 ParkourGame/Saved/Logs/ParkourGame.log
 *.log
-ParkourGame/Saved/
+# UE核心排除
+Saved/
+Intermediate/
+Binaries/
+Build/
+DerivedDataCache/
+
+# 项目文件
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# 插件
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vs/
+.idea/
