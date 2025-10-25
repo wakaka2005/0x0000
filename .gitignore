@@ -1,11 +1,11 @@
 ParkourGame/Saved/Logs/ParkourGame.log
 *.log
 # UE核心排除
-Saved/
-Intermediate/
-Binaries/
-Build/
-DerivedDataCache/
+ParkourGame/Saved/
+ParkourGame/Intermediate/
+ParkourGame/Binaries/
+ParkourGame/Build/
+ParkourGame/DerivedDataCache/
 
 # 项目文件
 *.sln
@@ -14,8 +14,8 @@ DerivedDataCache/
 *.xcworkspace
 
 # 插件
-Plugins/*/Binaries/
-Plugins/*/Intermediate/
+ParkourGame/Plugins/*/Binaries/
+ParkourGame/Plugins/*/Intermediate/
 
 # 系统文件
 .DS_Store
